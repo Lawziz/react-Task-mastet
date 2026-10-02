@@ -1,0 +1,9 @@
+.List-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 1em;
+    background-color: transparent;
+    border-radius: 4px;
+    margin-bottom: 0.5em;
+}

@@ -1,0 +1,28 @@
+.task-stats {
+    display: flex;
+    width: 100%;
+    /* background-color: #ffffff1a; */
+    /* margin-bottom: 1.5em; */
+    justify-content: space-between;
+    
+}
+.completed-btn, .pending-btn, .total-btn {
+    align-items: center;
+    padding: 1em;
+    margin: 1em;
+    background-color: black;
+    border-radius: 4px;
+    font-size: large;
+}
+
+.total-btn {
+    color: yellow;
+}
+
+.pending-btn {
+    color: rgb(239, 160, 3);
+}
+
+.completed-btn {
+    color: rgb(11, 208, 11);
+}
